@@ -12,7 +12,7 @@
 
 **TIAGo Robot — Autonomous Navigation and Pick-and-Place Demo**
 
-<video src="https://github.com/user-attachments/assets/326d30b4-cb1c-4c25-ba8a-1e9456ae2177" controls title="TIAGo Robot — Autonomous Navigation and Pick-and-Place Demo"></video>
+https://github.com/user-attachments/assets/1d743006-b14d-4236-962f-9c7d855052a1
 
 ---
 
